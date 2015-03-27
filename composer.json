@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.3.2",
         "doctrine/common": ">=2.2.0,<2.6.0-dev",
-        "guesttoguest/neo4jphp": "v1.0.0"
+        "guesttoguest/neo4jphp": "*"
     },
     "minimum-stability": "dev",
     "autoload": {
